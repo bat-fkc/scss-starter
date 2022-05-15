@@ -1,22 +1,16 @@
 # A quick sass starter architecture
 ![Sass image](https://miro.medium.com/max/1200/1*miUATuy4zIZlyu5ubWRgIw.png)
-Start by install sass
+Install the dependencies
 ```
 npm install
 ```
 
-Enable the auto saving changes by using the command below and switch to another terminal for you usual activity.
+To both start the server and automatically update your scss modifications when saving a file, use 
 ```
-npm run compile:sass
+npm run start
 ```
 
-You can change both the behavior and command in the package.json file
+To compile, prefix and compress your scss, use
 ```
-{
-    ...
-    "scripts": {
-      "compile:sass": "node-sass sass/main.scss css/style.css -w"
-    },
-    ...
-}
+npm run build:css
 ```
