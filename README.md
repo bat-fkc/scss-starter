@@ -1,4 +1,4 @@
-# A quick sass starter architecture
+# A scss starter using the 7-1 Architecture pattern
 ![Sass image](https://miro.medium.com/max/1200/1*miUATuy4zIZlyu5ubWRgIw.png)
 Install the dependencies
 ```
