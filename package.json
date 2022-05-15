@@ -1,6 +1,6 @@
 {
     "name": "scss-starter",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "description": "A quick scss starter using the 7-1 architecture pattern",
     "main": "index.js",
     "scripts": {
