@@ -10,7 +10,7 @@ To both start the server and automatically update your scss modifications when s
 npm run start
 ```
 
-To compile, prefix and compress your scss, use
+To compile, prefix and compress your scss before upload your website use
 ```
 npm run build:css
 ```
